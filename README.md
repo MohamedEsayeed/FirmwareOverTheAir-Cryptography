@@ -1,2 +1,2 @@
 # FirmwareOverTheAir-Cryptography
-It's a graduation project which tend to apply encryption and decryption algorithm on data transmitted. 
+Our GitHub project focuses on developing a robust and secure solution for Firmware Over-The-Air (FOTA) updates, enabling seamless and efficient software upgrades for our devices. Our team is committed to ensuring the highest quality standards, using best practices and cutting-edge technologies to deliver reliable and scalable solutions. We prioritize security, performance, and user experience in all aspects of our development process. Join us in this exciting project to contribute to the future of IoT innovation!
